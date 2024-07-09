@@ -1,5 +1,6 @@
 /**
  * 移除了获取奖励, 目前仅支持签到
+ * 多账号用 & 分割
  *
  * @author Telegram@sudojia
  * @site https://blog.imzjw.cn
