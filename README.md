@@ -34,7 +34,7 @@
 
 - [💡脚本食用指南](https://github.com/sudojia/scripts/wiki/%F0%9F%92%A1%E8%84%9A%E6%9C%AC%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97 "脚本食用指南")
 - [📚Telegram Channel](https://t.me/+X2MxAGGxwSxlZmE1)
-- [📚QQ Channel（不常在线）](https://pd.qq.com/s/dc5vz7n78)
+- [🐧QQ Group](https://qm.qq.com/q/SmfjFzBQAe "点击链接加入群聊【睡务局💤】")
 
 ## 📌Issues 说明
 
